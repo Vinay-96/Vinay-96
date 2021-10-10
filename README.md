@@ -32,7 +32,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Vinay-96">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinay-96&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-96&theme=buefy&layout=compact" />
 </a>
