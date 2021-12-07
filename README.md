@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://vinay-rao-h.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.VinayRao.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vinayraoh.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.VinayRao.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/vinay-rao-h/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vinay%20Rao%20H-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_h.ro_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_h.ro_-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/VinayRaoH1"><img alt="Twitter" src="https://img.shields.io/badge/VinayRaoH1-blue?style=flat-square&logo=twitter"></a>
