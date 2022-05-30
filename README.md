@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed my degree in Civil Engineering.
-- 💼 &nbsp; Currently looking for a tech job.
+- 💼 &nbsp; Currently working as MERN stack developer.
 - 🌱 &nbsp; Learning more about web techonologies, software development.
 - ✍️ &nbsp; Creating projects based on MERN stack and practising algorithms.
 
