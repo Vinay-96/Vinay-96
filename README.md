@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Completed my degree in Civil Engineering.
+- 🎓 &nbsp; Completed Engineering.
 - 💼 &nbsp; Currently working as MERN stack developer.
 - 🌱 &nbsp; Learning more about web techonologies, software development.
 - ✍️ &nbsp; Creating projects based on MERN stack and practising algorithms.
