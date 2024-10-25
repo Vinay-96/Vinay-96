@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Passionate about exploring new technologies and building scalable, efficient backend solutions.
 - 🎓 &nbsp; Graduated in Engineering.
-- 💼 &nbsp; Currently working as a Node.js Backend Developer @ Censa.
+- 💼 &nbsp; Currently working as a Node.js Backend Developer @ Quarks Technosoft.
 - 🌱 &nbsp; Continuously learning more about cloud technologies, API development, and advanced JavaScript.
 - ✍️ &nbsp; Developing projects based on the MERN stack and enhancing my knowledge of microservices and scalable architectures.
 
